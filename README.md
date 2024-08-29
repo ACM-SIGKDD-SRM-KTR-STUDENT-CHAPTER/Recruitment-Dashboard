@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![Status](https://img.shields.io/website-up-down-green-red/https/srmsigkdd-recruitment-dashboard.vercel.app/.svg)
+![Forks](https://img.shields.io/github/forks/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Recruitment-Dashboard.svg)
+![Issues](https://img.shields.io/github/issues/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Recruitment-Dashboard.svg)
+![PR](https://img.shields.io/github/issues-pr/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Recruitment-Dashboard.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Views](https://views.whatilearened.today/views/github/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Recruitment-Dashboard.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Recruitment-Dashboard)
 
-First, run the development server:
+<p align="center">
+    <img alt = "Logo" height="150" width="150" src = "https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER/Official_Website/blob/main/public/apple-touch-icon.png">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+</p>
+<h1 align="center" >SIGKDD Student Chapter SRM KTR </h1>
+
+  
+</p>
+
+Welcome to the official GitHub repository of the ACM SIGKDD Student Chapter at SRM Institute of Science and Technology, Kattankulathur!
+
+This repository serves as the central hub for our Special Interest Group on Knowledge Discovery in Data (SIGKDD) activities. Join us as we explore the fascinating realm of data science and machine learning.
+
+Founded in 2024, our chapter is dedicated to fostering learning, collaboration, and innovation in data science within the SRM community and beyond. Stay tuned for exciting projects, resources, and events. Let's unlock the potential of data together!
+<br>
+
+## Setting Up Website on local machine
+
+1. Installing Dependencies:
+    ```bash
+       npm install
+
+2. Starting the Server:
+    ```bash
+      npm run dev
+<br>
+
+<p>Running website on Local Host</p>
+
+```mermaid
+flowchart LR
+A(Round)
+A[Git Clone] --> B(Round)
+C(Round)
+B[Open Folder] --> C[npm install] -->D[npm run dev]
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ ## 💻 Current Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nextjs" height="30" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png">
+  <img align="center" alt="NODEJS" height="50" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="Tailwind" height="50" width="50" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
+  <img align="center" alt="Vercel" height="30" width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png">
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div><h2><strong>Developer of this project 🔻</strong></h2></div>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<table align="center">
+<tr align="center">
+<td>
 
-## Learn More
+**ADITYA VERMA**
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+<img src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png"  height="120" alt="Aditya Verma">
+</p>
+<p align="center">
+<a href = "https://github.com/adityav"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aditya-verma-real/">
+<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
+</a>
+<a href = "https://medium.com/@adityaver">
+<img src = "https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/>
+</a>
+</p>
+</td>
+</table>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#
+<p align="center">Made with ❤️ <b>TEAM SRMIST KTR ACM SIGKDD Student Chapter </b></p>
