@@ -49,7 +49,7 @@ export function LoginPage({ onLoginSuccess }: LoginPageProps) {
 
       // Array of video URLs
       const videoUrls = [
-        "https://funsoft.vercel.app/wrong.mp4"
+        "./wrong.mp4"
       ];
 
       // Select a random video URL
